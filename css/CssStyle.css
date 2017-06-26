@@ -9,10 +9,14 @@ html{
 
 body{
     background-color: #000010;
-	background-image: url("../FbP.jpg");
-    background-repeat: no-repeat;
+	
 }
 /**********************************************/
+
+div{
+  height:70px;
+  width: 10%;
+}
 
 h1 {
     color: white;
