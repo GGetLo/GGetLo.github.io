@@ -1,6 +1,8 @@
 <html>
 <head>
 <style>
+
+/* One of these two made the background black */
 html{
 	background-color: #000010;
 }
@@ -8,10 +10,11 @@ html{
 body{
     background-color: #000010;
 }
+/**********************************************/
 
 h1 {
     color: white;
-	background-color: #000000;
+	background-color: #787878;
     text-align: center;
 }
 
