@@ -9,7 +9,9 @@ html{
 
 body{
     background-color: #000010;
-	
+	background-image: url("../FbP.jpg");
+	background-size: 100px 100px;
+    background-repeat: no-repeat;
 }
 /**********************************************/
 
