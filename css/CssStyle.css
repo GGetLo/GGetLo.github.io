@@ -7,6 +7,13 @@ html{
 	background-color: #000010;
 }
 
+.background{
+width: 50%;
+height: 100px;
+background-image: url("../FbP.jpg");
+background-size: 100% 100%;
+}
+
 body{
     background-color: #000010;
 	background-image: url("../FbP.jpg");
