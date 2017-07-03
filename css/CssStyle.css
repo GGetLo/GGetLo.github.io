@@ -53,7 +53,6 @@ u1{
 
 li {
     float: left;
-    display: inline;
 }
 
 li a{
@@ -69,8 +68,12 @@ li a:hover{
 }
 
 .active{
-  background-color: #09ddec;
+  display:block;
+  background-color: #ffffff;
+  color: #000000;
+  text-decoration: none;
 }
+
 /***********************/
 </style>
 </head>
