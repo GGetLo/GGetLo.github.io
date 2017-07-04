@@ -12,13 +12,30 @@ body{
 }
 /**********************************************/
 
+
+#div2{
+  color: #000000;
+  background-color: #ffffff;
+  text-align: left;
+  width: 60%;
+/* Makes div2 centered */
+  margin-left: auto; 
+  margin-right: auto;
+}
+
 div{
- /* background:url("../FbP.jpg");
-  background-size: 30% 100px;
-  background-repeat:no-repeat;
-  padding:5px;*/
 
 }
+
+/*
+#mydiv {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+*/
+
 img.center{
   display: block;
   margin-left: auto;
