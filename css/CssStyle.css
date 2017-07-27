@@ -58,6 +58,10 @@ p {
 	text-align: center;
 }
 
+p a:link{
+  color: #46f1e1;
+
+}
 /*For Horizontal Navigation Bar*/
 u1{
   position: fixed;
